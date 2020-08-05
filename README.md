@@ -1,6 +1,8 @@
 # nodemail
 A simple mailsender built with ReactJS, Node.js and Nodemailer.
 
+Tutorial at https://www.luiztools.com.br/post/nodemail-envio-de-email-em-reactjs-nodejs-nodemailer/
+
 ## frontend
 A simple ReactJS email form with attachment.
 - cd frontend
